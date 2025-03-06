@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# performance-testing-using-jmeter
-=======
 <h1 align="center"><img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter logo" /></h1>
 
 Performance and load testing using Apache Jmeter.
@@ -95,4 +92,3 @@ a JMX file onto:
 
 
 
->>>>>>> b839ea71e4d9e51265c7e9f6628f92381bbd4012
